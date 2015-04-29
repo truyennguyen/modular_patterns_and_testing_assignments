@@ -1,0 +1,35 @@
+{
+  "name": "modular_patterns_and_testing_assignments",
+  "version": "0.2.0",
+  "description": "Modular patterns and testings",
+  "main": "greet1.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truyennguyen/modular_patterns_and_testing_assignments.git"
+  },
+  "keywords": [
+    "modular",
+    "and",
+    "patterns"
+  ],
+  "author": "truyen.m.nguyen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truyennguyen/modular_patterns_and_testing_assignments/issues"
+  },
+  "homepage": "https://github.com/truyennguyen/modular_patterns_and_testing_assignments",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "mocha": "^2.2.4",
+    "watch": "^0.16.0"
+  }
+}
